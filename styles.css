@@ -24,7 +24,7 @@ a {
 
 /* Основні стилі для сайту */
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Inter', sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -45,6 +45,7 @@ header .logo {
 }
 
 h1 {
+    font-family: 'Nuhito', sans-serif;
     font-size: 2rem;
     margin-top: 0;
     margin-bottom: 0;
